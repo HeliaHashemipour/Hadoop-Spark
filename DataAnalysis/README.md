@@ -17,4 +17,4 @@ docker-compose up
 
 ```
 
-Contributors: Helia Hashemipour & Hasti Jalali
+**Contributors: Helia Hashemipour & Hasti Jalali**
