@@ -15,4 +15,4 @@ Then, in the output, we bring the name of the games along with their similarity 
 
 
 
-Contributors: Helia Hashemipour & Hasti Jalali
+**Contributors: Helia Hashemipour & Hasti Jalali**
