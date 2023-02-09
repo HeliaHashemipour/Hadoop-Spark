@@ -7,5 +7,14 @@ This repository is about the third assignment of the cloud computing course.
 
 In this project we are going to learn about
 
-Spark and Spark SQL 
-Hadoop cluster
+- Spark and Spark SQL 
+- Hadoop cluster
+
+
+# Install 
+```bash
+docker-compose up
+
+```
+
+Contributors: Helia Hashemipour & Hasti Jalali
